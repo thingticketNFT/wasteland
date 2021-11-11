@@ -6,14 +6,13 @@ wasteland - an interactive audio-visual nft (https://www.hicetnunc.xyz/objkt/525
 <br>this repository is an example of source material for creating a hydra (https://hydra.ojack.xyz/) interactive nft minted on hicetnunc (https://www.hicetnunc.xyz/) with additional p5js elements as well as audio. hydra created by olivia jack (https://twitter.com/_ojack_)
 <br>best practice is to include all js libraries as well as the required index.html and thumbnail. style.css appears to be unnecessary but is included in this repo for experimentation purposes.
 <br>wasteland the nft is a tribute to Circular dystopia (https://t.co/uHXcAfBU9v?amp=1) by Daniel Oropeza. the hydra code contained in wasteland.js is adapted from Daniel's code. 
+<br>ipfs link: https://ipfs.io/ipfs/QmeJbjP5UcJKiANfcspKrdAe7rySLfyxZ7CbdvP3nwF4xG
+<br>you may need to enable autoplay audio in the browser.
 <br>
 <br>this repo is experimental and a work in progress. use at your own risk. :)
 <br>
 <br>follow the guidelines provided by https://github.com/hicetnunc2000/hicetnunc/wiki/Interactive-OBJKTs. this is an elaboration on the html method.
-<br>
-<br>
-<br>ipfs link: https://ipfs.io/ipfs/QmeJbjP5UcJKiANfcspKrdAe7rySLfyxZ7CbdvP3nwF4xG
-<br>you may need to enable autoplay audio in the browser.
+<br>this repo got me started:https://github.com/derekmorash/hen-html-starter/tree/main/src. thanks Derek Morash!
 <br>
 <br>// special thanks: c0d3 p03try (https://c0d3-p03try.neocities.org/)
 <br>// text display method inspired by livecoding youtube video by Flor de Fuego 
